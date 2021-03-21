@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InkPad", "InkPad.csproj", "{0FEEF79F-23A2-4CC8-95E4-5042892013BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FEEF79F-23A2-4CC8-95E4-5042892013BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FEEF79F-23A2-4CC8-95E4-5042892013BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FEEF79F-23A2-4CC8-95E4-5042892013BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FEEF79F-23A2-4CC8-95E4-5042892013BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7515BE54-7FEA-4BD1-AEDE-B8A9969FEBCB}
+	EndGlobalSection
+EndGlobal
